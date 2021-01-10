@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SnowLab.unity
+    guid: 9d6e1959eb2ce4647880554cfc140111
+  - enabled: 1
+    path: Assets/Scenes/ProdGeneratorPrototype.unity
+    guid: 280397249f6ccc940b91ec4f4ad28e39
+  m_configObjects: {}
