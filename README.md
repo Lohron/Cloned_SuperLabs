@@ -56,7 +56,7 @@ See [PROJECT_STATUS.md](PROJECT_STATUS.md) for a prioritized validation checklis
 
 ## Ownership and attribution
 
-This project includes **third-party materials**, including the Mirror framework and imported model/environment asset folders. The repository alone does not establish redistribution permission for all assets. **Do not make it public until licenses, provenance, and any team ownership requirements are checked.**
+This project includes **third-party materials**, including the Mirror framework and imported model/environment asset folders. The repository alone does not establish redistribution permission for all assets. **This repository is public; review licenses, provenance, and any team ownership requirements promptly, and remove or replace materials that cannot legally be redistributed.**
 
 **Individual contribution notes:** Add a confirmed description of your specific work and collaborators here before using this as an application portfolio piece. File presence alone is not proof of authorship.
 
